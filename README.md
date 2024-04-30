@@ -9,7 +9,7 @@ L'analyse de cohortes vise à séparer les individus en "cohortes" regroupées s
 
 **_Mission_**
 
-**Olist m'a engagé comme Data Analyst pour que réaliser une analyse de cohortes sur leurs données 2017-2018.**
+**Ollist m'a engagé comme Data Analyst pour que réaliser une analyse de cohortes sur leurs données 2017-2018.**
 
 Ici, les clients d'Olist sont les vendeurs du site. Il s'agira de les répartir en cohortes correspondant au mois de leur première vente. Il ne s'agit pas tout à fait d'une analyse de cohortes classique : ici, l'objectif sera de suivre la **proportion de vendeurs de chaque cohorte qui continue à utiliser la plateforme** les mois suivant leur première vente.
 
